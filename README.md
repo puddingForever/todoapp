@@ -1,6 +1,9 @@
 # todoapp
 [Spring-boot] TO-DO List 프로젝트
 
+### 프로젝트 기간
++ 2023-06-03 ~ 2023-06-04
+
 ### 기술스택
 + SpringBoot3, Java17, JPA&Hibernate, JSP, Spring Security, Spring Validation, H2, 
 

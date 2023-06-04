@@ -11,7 +11,7 @@
 + Spring Validation을 이용하여 계획의 등록과 수정시 입력값 검사
 
 ### 엔티티
-<img src="https://github.com/puddingForever/todoapp/assets/126591306/4eee9d37-9c3c-4ea9-aca1-11a99ab83a2c" width="300" />
+<img src="https://github.com/puddingForever/todoapp/assets/126591306/4eee9d37-9c3c-4ea9-aca1-11a99ab83a2c" width="290" />
 
 
 ### 화면 
